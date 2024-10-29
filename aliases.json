@@ -1,0 +1,11 @@
+[ {
+  "id" : 1851117997137518592,
+  "uri" : "sad://flatfiles/rfs#test",
+  "connection" : {
+    "type" : "local",
+    "fields" : [ {
+      "name" : "rootPath",
+      "value" : "C:\\CrossVista\\logs"
+    } ]
+  }
+} ]
