@@ -1,0 +1,20 @@
+{
+  "root" : {
+    "type" : "LOGICAL",
+    "uid" : "cuid://m80cd60tfz1a",
+    "constituents" : [ {
+      "name" : "test3",
+      "type" : "NATIVE",
+      "uid" : "cuid://2fs7fbaeituf8",
+      "properties" : [ {
+        "name" : "serverAlias",
+        "value" : "sad://flatfiles/rfs#test"
+      } ]
+    } ]
+  },
+  "servers" : [ {
+    "id" : 1854479593830481920,
+    "name" : "test3",
+    "connection" : "sad://flatfiles/rfs#test"
+  } ]
+}
