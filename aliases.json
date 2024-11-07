@@ -5,7 +5,7 @@
     "type" : "local",
     "fields" : [ {
       "name" : "rootPath",
-      "value" : "C:\\CrossVista\\logs2"
+      "value" : "C:\\CrossVista\\logs"
     } ]
   }
 } ]
