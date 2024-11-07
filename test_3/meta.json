@@ -8,13 +8,13 @@
 }, {
   "name" : "lastActionDate",
   "type" : "long",
-  "value" : 1730977382905
+  "value" : 1730977517909
 }, {
   "name" : "lastActionAuthor",
   "value" : "Administrator"
 }, {
   "name" : "lastActionName",
-  "value" : "VCS_COMMIT"
+  "value" : "LIVE_IMAGE"
 }, {
   "name" : "numberArtifacts",
   "type" : "int",
