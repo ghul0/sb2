@@ -5,4 +5,18 @@
   "name" : "numberBranches",
   "type" : "int",
   "value" : 1
+}, {
+  "name" : "lastActionDate",
+  "type" : "long",
+  "value" : 1730977369857
+}, {
+  "name" : "lastActionAuthor",
+  "value" : "Administrator"
+}, {
+  "name" : "lastActionName",
+  "value" : "VCS_COMMIT"
+}, {
+  "name" : "numberArtifacts",
+  "type" : "int",
+  "value" : 2
 } ]
