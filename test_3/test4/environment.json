@@ -1,0 +1,57 @@
+[ {
+  "name" : "test3",
+  "connection" : "sad://flatfiles/rfs#test",
+  "uid" : "cuid://39zbvia53jhpw",
+  "properties" : [ {
+    "name" : "wrapperLabel",
+    "value" : "test3"
+  }, {
+    "name" : "snapTime",
+    "type" : "long",
+    "value" : 1730977366989
+  } ],
+  "constituents" : [ {
+    "name" : "Content",
+    "type" : "flatfiles/rfs/content",
+    "uid" : "cuid://14307zunew45b",
+    "constituents" : [ {
+      "name" : "elk.json",
+      "type" : "flatfiles/rfs/content/filetxt",
+      "crc" : "f0b2e432",
+      "uid" : "cuid://26kj7bzsge4sa",
+      "properties" : [ {
+        "name" : "isFolder",
+        "type" : "boolean",
+        "value" : false
+      }, {
+        "name" : "isBinary",
+        "type" : "boolean",
+        "value" : false
+      }, {
+        "name" : "modificationTime",
+        "type" : "datetime",
+        "value" : 1730200802345
+      }, {
+        "name" : "style",
+        "value" : "json"
+      } ]
+    }, {
+      "name" : "elk_2024-10-28_json.zip",
+      "type" : "flatfiles/rfs/content/filebin",
+      "crc" : "e36e95c0",
+      "uid" : "cuid://3cb8b52papzec",
+      "properties" : [ {
+        "name" : "isFolder",
+        "type" : "boolean",
+        "value" : false
+      }, {
+        "name" : "isBinary",
+        "type" : "boolean",
+        "value" : true
+      }, {
+        "name" : "style",
+        "value" : "zip"
+      } ]
+    } ]
+  } ]
+} ]
