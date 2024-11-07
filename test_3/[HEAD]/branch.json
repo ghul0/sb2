@@ -3,5 +3,7 @@
   "name" : "test_3",
   "author" : "Administrator",
   "date" : 1730977358544,
-  "state" : "integrated"
+  "state" : "integrated",
+  "sync" : "SYNCED",
+  "lastSync" : 1730977369690
 } ]
