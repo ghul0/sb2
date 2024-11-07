@@ -6,5 +6,7 @@
   "description" : "test3",
   "author" : "Administrator",
   "date" : 1730977382246,
-  "state" : "integrated"
+  "state" : "integrated",
+  "sync" : "SYNCED",
+  "lastSync" : 1730977517631
 } ]
